@@ -1,0 +1,116 @@
+{
+  "Entries" : [
+    {
+      "RelativePath" : "baselib.dll",
+      "Size" : 418840,
+      "LastWriting" : "2023-02-08 17:16:59Z",
+      "Hash" : "2q1DbQ9WgsGkjUbHHE5l//Jmvp0",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "GameAssembly.dll",
+      "Size" : 37941760,
+      "LastWriting" : "2023-02-08 17:20:01Z",
+      "Hash" : "KILc5QEFq/g7DLnZPy5zAMt5XC0",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "RevGames.exe",
+      "Size" : 666624,
+      "LastWriting" : "2023-02-08 17:17:00Z",
+      "Hash" : "Z9oSwk7iZ2xbKQ1tY8Lq0wPSjF4",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "UnityPlayer.dll",
+      "Size" : 29805080,
+      "LastWriting" : "2023-02-08 17:17:00Z",
+      "Hash" : "dALCud16VRdI3Zyc0BEucPH8Dfg",
+      "Attributes" : 32
+    },
+    {
+      "RelativePath" : "RevGames_Data/app.info",
+      "Size" : 23,
+      "LastWriting" : "2023-02-08 17:16:59Z",
+      "Hash" : "Jf9mwJvQoG8vWqRRZUlwhPe7G9M",
+      "Attributes" : 8224
+    },
+    {
+      "RelativePath" : "RevGames_Data/boot.config",
+      "Size" : 161,
+      "LastWriting" : "2023-02-08 17:39:57Z",
+      "Hash" : "xiSdLpiMX1Dp/TGv4EbK7L3zjm8",
+      "Attributes" : 8224
+    },
+    {
+      "RelativePath" : "RevGames_Data/data.unity3d",
+      "Size" : 55658040,
+      "LastWriting" : "2023-02-08 17:39:57Z",
+      "Hash" : "t4p8++NkTAxRWd94zPPGBOe++MQ",
+      "Attributes" : 8224
+    },
+    {
+      "RelativePath" : "RevGames_Data/RuntimeInitializeOnLoads.json",
+      "Size" : 3085,
+      "LastWriting" : "2023-02-08 17:17:00Z",
+      "Hash" : "4FAAPj8ObBikbuIsr+e5LZ29UNs",
+      "Attributes" : 8224
+    },
+    {
+      "RelativePath" : "RevGames_Data/ScriptingAssemblies.json",
+      "Size" : 3904,
+      "LastWriting" : "2023-02-08 17:17:00Z",
+      "Hash" : "XRnAoZ1E7bXXjofnZKoyv0NRokc",
+      "Attributes" : 8224
+    },
+    {
+      "RelativePath" : "RevGames_Data/sharedassets0.resource",
+      "Size" : 271456,
+      "LastWriting" : "2023-02-08 17:39:57Z",
+      "Hash" : "5trp57I7pkc6b+lxG5Ib2Fd6ceM",
+      "Attributes" : 8224
+    },
+    {
+      "RelativePath" : "RevGames_Data/Resources/unity default resources",
+      "Size" : 5862976,
+      "LastWriting" : "2023-02-08 17:16:59Z",
+      "Hash" : "EHYY94+7B+nuEEJHnrPmV5pg+X0",
+      "Attributes" : 8224
+    },
+    {
+      "RelativePath" : "RevGames_Data/StreamingAssets/UnityServicesProjectConfiguration.json",
+      "Size" : 530,
+      "LastWriting" : "2023-02-08 17:17:00Z",
+      "Hash" : "zQnS1Evg3C/Y1heZiQ6kRG1AmYE",
+      "Attributes" : 8224
+    },
+    {
+      "RelativePath" : "RevGames_Data/il2cpp_data/Metadata/global-metadata.dat",
+      "Size" : 12291732,
+      "LastWriting" : "2023-02-08 17:19:38Z",
+      "Hash" : "1KdL2TwVCq3nskJF9NufvV0uGB8",
+      "Attributes" : 8224
+    },
+    {
+      "RelativePath" : "RevGames_Data/il2cpp_data/Resources/mscorlib.dll-resources.dat",
+      "Size" : 337563,
+      "LastWriting" : "2023-02-08 17:19:38Z",
+      "Hash" : "EaHA4qsvjAb+RQdTXtR+DdJ5pg0",
+      "Attributes" : 8224
+    },
+    {
+      "RelativePath" : "RevGames_Data/Plugins/x86_64/lib_burst_generated.dll",
+      "Size" : 377856,
+      "LastWriting" : "2023-02-08 17:19:37Z",
+      "Hash" : "1da9gbgdYelmj0YfRSuiCl1+sxw",
+      "Attributes" : 8224
+    },
+    {
+      "RelativePath" : "version.data",
+      "Size" : 24,
+      "LastWriting" : "2023-02-09 09:58:41Z",
+      "Hash" : "/Zay8V6LBrdGLMgyz4huBjyCMBw",
+      "Attributes" : 32
+    }
+  ]
+}
